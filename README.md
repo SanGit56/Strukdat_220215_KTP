@@ -1,2 +1,1 @@
-# Strukdat_220215_KTP
-Tugas pertama mata kuliah Struktur Data
+Sistem informasi KTP sederhana yang dibuat menggunakan bahasa C
